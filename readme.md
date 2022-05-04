@@ -1,4 +1,4 @@
-Instructions for training the model:  
+###Instructions for training the model:  
 
 1) Install the required packages using requirements.txt 
 2) Replace the Dataset PATH to where it is stored locally. 
