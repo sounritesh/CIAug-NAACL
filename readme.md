@@ -1,7 +1,7 @@
 # CIAug: Equipping Interpolative Augmentation with Curriculum Learning
 
 Official PyTorch implementation of [CIAug](https://aclanthology.org/2022.naacl-main.127/) (NAACL 2022 Main conference).
-![CIAug](https://postimg.cc/Tyd5XKJT)
+![CIAug](https://i.postimg.cc/wBJXLJtR/Screenshot-2022-07-31-at-10-03-43-AM.png)
 
 ### Instructions for training the model:
 
